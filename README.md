@@ -1,1 +1,6 @@
-Este repositório contém as resoluções dos exercícios de Programação Funcional do Ano Letivo 2020/2021.
+# Programação Funcional (CC1005)
+Neste repositório está o código relativo à Unidade Curricular de Programação Funcional do Ano Letivo 2020/2021.
+
+| Diretório        | Descrição |
+| :--------------- | :------------------------------------------------------------------------------|
+| Código Teóricas  | Exemplos de c |
