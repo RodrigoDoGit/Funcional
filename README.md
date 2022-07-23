@@ -3,4 +3,5 @@ Neste repositório está o código relativo à Unidade Curricular de Programaç�
 
 | Diretório        | Descrição |
 | :--------------- | :--------------------------------------------- |
-| Código Teóricas  | Exemplos de código dados nas aulas teóricas|
+| Código Teóricas  | Exemplos de código dados nas aulas teóricas |
+| Práticas         | Resoluções dos exercícios das aulas práticas | 
