@@ -1,5 +1,5 @@
 # Programação Funcional (CC1005)
-Neste repositório está o código relativo à Unidade Curricular de Programação Funcional do Ano Letivo 2020/2021.
+Neste repositório está o código relativo à Unidade Curricular de Programação Funcional do Ano Letivo 2020/2021 - DCC/FCUP.
 
 | Diretório        | Descrição |
 | :--------------- | :--------------------------------------------- |
