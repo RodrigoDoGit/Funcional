@@ -1,7 +1,7 @@
-# Programação Funcional (CC1005)
-Neste repositório está o código relativo à Unidade Curricular de Programação Funcional do Ano Letivo 2020/2021 - DCC/FCUP.
+# Functional Programming (CC1005)
+This repository contains the code for Functional Programming Course Unit of 2020/2021 Academic Year - DCC/FCUP.
 
-| Diretório        | Descrição |
+| Folder        | Description |
 | :--------------- | :--------------------------------------------- |
-| Código Teóricas  | Exemplos de código dados nas aulas teóricas |
-| Práticas         | Resoluções dos exercícios das aulas práticas | 
+| Theoretical Classes Code  | Code examples given in the theoretical classes |
+| Lab Classes         | Resolutions of the lab classes exercises | 
